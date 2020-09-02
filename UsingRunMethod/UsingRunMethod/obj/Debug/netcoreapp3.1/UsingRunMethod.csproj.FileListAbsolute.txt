@@ -1,0 +1,13 @@
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.exe
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.deps.json
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.runtimeconfig.json
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.runtimeconfig.dev.json
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.dll
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\bin\Debug\netcoreapp3.1\UsingRunMethod.pdb
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.AssemblyInfoInputs.cache
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.AssemblyInfo.cs
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.csproj.CoreCompileInputs.cache
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.dll
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.pdb
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.genruntimeconfig.cache
+H:\13-08-2020\UsingRunMethod\UsingRunMethod\obj\Debug\netcoreapp3.1\UsingRunMethod.csprojAssemblyReference.cache
