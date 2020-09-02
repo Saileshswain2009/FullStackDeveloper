@@ -1,0 +1,13 @@
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.exe
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.deps.json
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.runtimeconfig.json
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.runtimeconfig.dev.json
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.dll
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\bin\Debug\netcoreapp3.1\AsyncApp_project.pdb
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.csprojAssemblyReference.cache
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.AssemblyInfoInputs.cache
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.AssemblyInfo.cs
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.csproj.CoreCompileInputs.cache
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.dll
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.pdb
+H:\15-08-2020\AsyncApp_project\AsyncApp_project\obj\Debug\netcoreapp3.1\AsyncApp_project.genruntimeconfig.cache
