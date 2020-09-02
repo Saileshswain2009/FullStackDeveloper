@@ -1,0 +1,12 @@
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.exe
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.deps.json
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.runtimeconfig.json
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.runtimeconfig.dev.json
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.dll
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\bin\Debug\netcoreapp3.1\UsingWaitMethod.pdb
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.AssemblyInfoInputs.cache
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.AssemblyInfo.cs
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.csproj.CoreCompileInputs.cache
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.dll
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.pdb
+H:\13-08-2020\UsingWaitMethod\UsingWaitMethod\obj\Debug\netcoreapp3.1\UsingWaitMethod.genruntimeconfig.cache
