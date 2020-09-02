@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBqQDnwu+Bz+vg6XSqaosY776tCpALjt0PWBsskc5PZ0F+PQsswSS8Qosc5jXIf3oW6/Bhs6iW7A4n1B0IkUQw==",
+  "success": true,
+  "projectFilePath": "H:\\14-08-2020\\MaximunAndMinimumThreadPool\\MaximunAndMinimumThreadPool\\MaximunAndMinimumThreadPool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

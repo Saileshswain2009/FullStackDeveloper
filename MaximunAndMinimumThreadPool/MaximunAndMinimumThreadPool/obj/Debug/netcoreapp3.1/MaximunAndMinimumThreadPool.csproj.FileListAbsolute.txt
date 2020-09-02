@@ -1,0 +1,13 @@
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.exe
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.deps.json
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.runtimeconfig.json
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.runtimeconfig.dev.json
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.dll
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\bin\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.pdb
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.csprojAssemblyReference.cache
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.AssemblyInfoInputs.cache
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.AssemblyInfo.cs
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.csproj.CoreCompileInputs.cache
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.dll
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.pdb
+H:\14-08-2020\MaximunAndMinimumThreadPool\MaximunAndMinimumThreadPool\obj\Debug\netcoreapp3.1\MaximunAndMinimumThreadPool.genruntimeconfig.cache
