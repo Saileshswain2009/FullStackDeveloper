@@ -1,0 +1,13 @@
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.exe
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.deps.json
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.runtimeconfig.json
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.runtimeconfig.dev.json
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.dll
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\bin\Debug\netcoreapp3.1\WaitOneOrMoreTask.pdb
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.csprojAssemblyReference.cache
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.AssemblyInfoInputs.cache
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.AssemblyInfo.cs
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.csproj.CoreCompileInputs.cache
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.dll
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.pdb
+H:\13-08-2020\WaitOneOrMoreTask\WaitOneOrMoreTask\obj\Debug\netcoreapp3.1\WaitOneOrMoreTask.genruntimeconfig.cache
