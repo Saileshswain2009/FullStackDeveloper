@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOTQC4t7khtemoWfgGjOvHiTDy7Wrylaap6fvrjTqy4cEFNv2JP9O1zCWvAZ2H6yc9ORb1pUe+vcFsBvRLueeg==",
+  "success": true,
+  "projectFilePath": "H:\\11-08-2020\\LinqToXMLExample2\\LinqToXMLExample2\\LinqToXMLExample2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
