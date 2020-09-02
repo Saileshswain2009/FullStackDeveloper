@@ -1,0 +1,12 @@
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.exe
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.deps.json
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.runtimeconfig.json
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.runtimeconfig.dev.json
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.dll
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\bin\Debug\netcoreapp3.1\MultiThreading_project.pdb
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.AssemblyInfoInputs.cache
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.AssemblyInfo.cs
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.csproj.CoreCompileInputs.cache
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.dll
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.pdb
+H:\15-08-2020\MultiThreading_project\MultiThreading_project\obj\Debug\netcoreapp3.1\MultiThreading_project.genruntimeconfig.cache

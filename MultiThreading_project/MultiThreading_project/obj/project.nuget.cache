@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRahWoDkCTtpSO1PwqshpaIRA9B4RYuGs/WPZmg9tQB1PPlFcNSMbvEMMuBinkDCIKAiNFcs/9vhKQ3gZRnwcg==",
+  "success": true,
+  "projectFilePath": "H:\\15-08-2020\\MultiThreading_project\\MultiThreading_project\\MultiThreading_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
