@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Q+WbV+IDc6s68lJkGQ2xFDlQSTD8thMxbvw8z0sjKBSHsR9YHXeGdK3hiIAtn30qLTX808Ao0cnXJw/81PuuQ==",
+  "success": true,
+  "projectFilePath": "H:\\18-08-2020\\FileStreamReadWrite_project\\FileStreamReadWrite_project\\FileStreamReadWrite_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
