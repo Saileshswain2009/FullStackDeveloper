@@ -1,0 +1,12 @@
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.exe
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.deps.json
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.runtimeconfig.json
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.runtimeconfig.dev.json
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.dll
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\bin\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.pdb
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.AssemblyInfoInputs.cache
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.AssemblyInfo.cs
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.csproj.CoreCompileInputs.cache
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.dll
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.pdb
+H:\13-08-2020\CreateRunningTaskExplicitly\CreateRunningTaskExplicitly\obj\Debug\netcoreapp3.1\CreateRunningTaskExplicitly.genruntimeconfig.cache
