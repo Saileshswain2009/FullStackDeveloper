@@ -1,0 +1,12 @@
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.exe
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.deps.json
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.runtimeconfig.json
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.runtimeconfig.dev.json
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.dll
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\bin\Debug\netcoreapp3.1\VariableScopeLambdaExpression.pdb
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.AssemblyInfoInputs.cache
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.AssemblyInfo.cs
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.csproj.CoreCompileInputs.cache
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.dll
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.pdb
+H:\11-08-2020\VariableScopeLambdaExpression\VariableScopeLambdaExpression\obj\Debug\netcoreapp3.1\VariableScopeLambdaExpression.genruntimeconfig.cache
