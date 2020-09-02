@@ -1,0 +1,12 @@
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.exe
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.deps.json
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.runtimeconfig.json
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.runtimeconfig.dev.json
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.dll
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\bin\Debug\netcoreapp3.1\ExpressionTreeWithLambda.pdb
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.AssemblyInfoInputs.cache
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.AssemblyInfo.cs
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.csproj.CoreCompileInputs.cache
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.dll
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.pdb
+H:\11-08-2020\ExpressionTreeWithLambda\ExpressionTreeWithLambda\obj\Debug\netcoreapp3.1\ExpressionTreeWithLambda.genruntimeconfig.cache
