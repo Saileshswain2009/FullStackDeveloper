@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xeTYesp1DPlvCQ9lQ1wea6Jc/UuiULuStYhDPRwLRwsajKPzsfjio3YJ1rRoigfVX7VOL+1VW34YAl0FkdeQDg==",
+  "success": true,
+  "projectFilePath": "H:\\10-08-2020\\LINQ-Chapters\\UsingofTypeOperator\\UsingofTypeOperator\\UsingofTypeOperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

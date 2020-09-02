@@ -1,0 +1,12 @@
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.exe
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.deps.json
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.runtimeconfig.json
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.runtimeconfig.dev.json
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.dll
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\bin\Debug\netcoreapp3.1\UsingofTypeOperator.pdb
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.AssemblyInfoInputs.cache
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.AssemblyInfo.cs
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.csproj.CoreCompileInputs.cache
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.dll
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.pdb
+H:\10-08-2020\LINQ-Chapters\UsingofTypeOperator\UsingofTypeOperator\obj\Debug\netcoreapp3.1\UsingofTypeOperator.genruntimeconfig.cache
