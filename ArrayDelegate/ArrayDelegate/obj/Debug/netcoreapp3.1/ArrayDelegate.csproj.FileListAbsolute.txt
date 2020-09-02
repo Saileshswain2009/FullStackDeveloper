@@ -1,0 +1,12 @@
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.exe
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.deps.json
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.runtimeconfig.json
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.runtimeconfig.dev.json
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.dll
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\bin\Debug\netcoreapp3.1\ArrayDelegate.pdb
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.AssemblyInfoInputs.cache
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.AssemblyInfo.cs
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.csproj.CoreCompileInputs.cache
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.dll
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.pdb
+H:\12-08-2020\ArrayDelegate\ArrayDelegate\obj\Debug\netcoreapp3.1\ArrayDelegate.genruntimeconfig.cache
