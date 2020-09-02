@@ -1,0 +1,13 @@
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.exe
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.deps.json
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.runtimeconfig.json
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.runtimeconfig.dev.json
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.dll
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\bin\Debug\netcoreapp3.1\MultiConnSocket_project.pdb
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.csprojAssemblyReference.cache
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.AssemblyInfoInputs.cache
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.AssemblyInfo.cs
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.csproj.CoreCompileInputs.cache
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.dll
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.pdb
+H:\20-08-20202\MultiConnSocket_project\MultiConnSocket_project\obj\Debug\netcoreapp3.1\MultiConnSocket_project.genruntimeconfig.cache
