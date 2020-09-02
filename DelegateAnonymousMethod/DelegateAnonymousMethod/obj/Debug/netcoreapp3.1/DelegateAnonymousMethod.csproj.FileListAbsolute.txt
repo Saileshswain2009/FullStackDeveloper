@@ -1,0 +1,12 @@
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.exe
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.deps.json
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.runtimeconfig.json
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.runtimeconfig.dev.json
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.dll
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\netcoreapp3.1\DelegateAnonymousMethod.pdb
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.AssemblyInfoInputs.cache
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.AssemblyInfo.cs
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.csproj.CoreCompileInputs.cache
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.dll
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.pdb
+H:\12-08-2020\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\netcoreapp3.1\DelegateAnonymousMethod.genruntimeconfig.cache

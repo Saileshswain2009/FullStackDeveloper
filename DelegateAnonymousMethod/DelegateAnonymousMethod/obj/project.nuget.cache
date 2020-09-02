@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMX/afGlCZFZLRtO/m0qww4t1TY49eUQ3oYwH8OyWX1xYG34jG6OAOkS6PrThhyaMtT13gdB9xHsFB4t49EGVg==",
+  "success": true,
+  "projectFilePath": "H:\\12-08-2020\\DelegateAnonymousMethod\\DelegateAnonymousMethod\\DelegateAnonymousMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
