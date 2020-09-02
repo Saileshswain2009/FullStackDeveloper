@@ -1,0 +1,13 @@
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.exe
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.deps.json
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.runtimeconfig.json
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.runtimeconfig.dev.json
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.dll
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\bin\Debug\netcoreapp3.1\CreateAndStartNewThread.pdb
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.AssemblyInfoInputs.cache
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.AssemblyInfo.cs
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.csproj.CoreCompileInputs.cache
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.dll
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.pdb
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.genruntimeconfig.cache
+H:\14-08-2020\CreateAndStartNewThread\CreateAndStartNewThread\obj\Debug\netcoreapp3.1\CreateAndStartNewThread.csprojAssemblyReference.cache
