@@ -1,0 +1,12 @@
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.exe
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.deps.json
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.runtimeconfig.json
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.runtimeconfig.dev.json
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.dll
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\bin\Debug\netcoreapp3.1\MultipleDeligateExample2.pdb
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.AssemblyInfoInputs.cache
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.AssemblyInfo.cs
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.csproj.CoreCompileInputs.cache
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.dll
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.pdb
+H:\12-08-2020\MultipleDeligateExample2\MultipleDeligateExample2\obj\Debug\netcoreapp3.1\MultipleDeligateExample2.genruntimeconfig.cache

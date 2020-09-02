@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWKlB2y7sV4QmcwK37CI5kSEFQC4w9Tyt4Qqo2b+qFsnbx+6sJZ4YgSxRU9FWVjqfqfKvEUWpOK6Emwyf2UBHw==",
+  "success": true,
+  "projectFilePath": "H:\\12-08-2020\\MultipleDeligateExample2\\MultipleDeligateExample2\\MultipleDeligateExample2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
