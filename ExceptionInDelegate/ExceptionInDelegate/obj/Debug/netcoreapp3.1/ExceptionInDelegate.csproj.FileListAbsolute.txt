@@ -1,0 +1,12 @@
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.exe
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.deps.json
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.runtimeconfig.json
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.runtimeconfig.dev.json
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.dll
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\bin\Debug\netcoreapp3.1\ExceptionInDelegate.pdb
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.AssemblyInfoInputs.cache
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.AssemblyInfo.cs
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.csproj.CoreCompileInputs.cache
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.dll
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.pdb
+H:\12-08-2020\ExceptionInDelegate\ExceptionInDelegate\obj\Debug\netcoreapp3.1\ExceptionInDelegate.genruntimeconfig.cache
