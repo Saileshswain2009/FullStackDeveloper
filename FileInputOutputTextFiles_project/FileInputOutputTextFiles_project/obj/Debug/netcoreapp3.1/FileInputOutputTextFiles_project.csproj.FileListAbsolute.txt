@@ -1,0 +1,12 @@
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.exe
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.deps.json
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.runtimeconfig.json
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.runtimeconfig.dev.json
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.dll
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\bin\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.pdb
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.AssemblyInfoInputs.cache
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.AssemblyInfo.cs
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.csproj.CoreCompileInputs.cache
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.dll
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.pdb
+H:\17-08-2020\FileInputOutputTextFiles_project\FileInputOutputTextFiles_project\obj\Debug\netcoreapp3.1\FileInputOutputTextFiles_project.genruntimeconfig.cache
