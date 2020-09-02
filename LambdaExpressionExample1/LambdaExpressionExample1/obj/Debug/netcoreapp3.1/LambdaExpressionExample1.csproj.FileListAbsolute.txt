@@ -1,0 +1,12 @@
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.exe
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.deps.json
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.runtimeconfig.json
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.runtimeconfig.dev.json
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.dll
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\bin\Debug\netcoreapp3.1\LambdaExpressionExample1.pdb
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.AssemblyInfoInputs.cache
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.AssemblyInfo.cs
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.csproj.CoreCompileInputs.cache
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.dll
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.pdb
+H:\11-08-2020\LambdaExpressionExample1\LambdaExpressionExample1\obj\Debug\netcoreapp3.1\LambdaExpressionExample1.genruntimeconfig.cache
