@@ -1,0 +1,12 @@
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.exe
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.deps.json
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.json
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.dev.json
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.dll
+H:\12-08-2020\GenericDelegate\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.pdb
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfoInputs.cache
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfo.cs
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.csproj.CoreCompileInputs.cache
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.dll
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.pdb
+H:\12-08-2020\GenericDelegate\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.genruntimeconfig.cache
