@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRqVpqMPVTiufpgs4FUX1M2UDeB0SPEglERNR5s23pRG4sBR/m2KoBaduJth5yZdVJOMU/LwT1wotvihhLaJUQ==",
+  "success": true,
+  "projectFilePath": "H:\\12-08-2020\\EventBasic\\EventBasic\\EventBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.exe
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.deps.json
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.runtimeconfig.json
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.runtimeconfig.dev.json
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.dll
+H:\12-08-2020\EventBasic\EventBasic\bin\Debug\netcoreapp3.1\EventBasic.pdb
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.AssemblyInfoInputs.cache
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.AssemblyInfo.cs
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.csproj.CoreCompileInputs.cache
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.dll
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.pdb
+H:\12-08-2020\EventBasic\EventBasic\obj\Debug\netcoreapp3.1\EventBasic.genruntimeconfig.cache
