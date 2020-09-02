@@ -1,0 +1,13 @@
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.exe
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.deps.json
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.runtimeconfig.json
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.runtimeconfig.dev.json
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.dll
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.pdb
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.csprojAssemblyReference.cache
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.AssemblyInfoInputs.cache
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.AssemblyInfo.cs
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.csproj.CoreCompileInputs.cache
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.dll
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.pdb
+H:\12-08-2020\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.genruntimeconfig.cache
