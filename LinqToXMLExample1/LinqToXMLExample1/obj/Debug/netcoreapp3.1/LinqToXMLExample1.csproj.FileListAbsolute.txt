@@ -1,0 +1,12 @@
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.exe
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.deps.json
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.runtimeconfig.json
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.runtimeconfig.dev.json
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.dll
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\bin\Debug\netcoreapp3.1\LinqToXMLExample1.pdb
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.AssemblyInfoInputs.cache
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.AssemblyInfo.cs
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.csproj.CoreCompileInputs.cache
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.dll
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.pdb
+H:\11-08-2020\LinqToXMLExample1\LinqToXMLExample1\obj\Debug\netcoreapp3.1\LinqToXMLExample1.genruntimeconfig.cache
