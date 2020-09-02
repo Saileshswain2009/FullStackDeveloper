@@ -1,0 +1,13 @@
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.exe
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.deps.json
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.runtimeconfig.json
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.runtimeconfig.dev.json
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.dll
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\bin\Debug\netcoreapp3.1\CreateExecuteTask.pdb
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.csprojAssemblyReference.cache
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.AssemblyInfoInputs.cache
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.AssemblyInfo.cs
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.csproj.CoreCompileInputs.cache
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.dll
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.pdb
+H:\13-08-2020\CreateExecuteTask\CreateExecuteTask\obj\Debug\netcoreapp3.1\CreateExecuteTask.genruntimeconfig.cache
