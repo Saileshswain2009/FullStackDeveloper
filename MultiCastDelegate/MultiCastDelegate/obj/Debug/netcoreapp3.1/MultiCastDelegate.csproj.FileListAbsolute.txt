@@ -1,0 +1,13 @@
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.exe
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.deps.json
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.runtimeconfig.json
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.runtimeconfig.dev.json
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.dll
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\bin\Debug\netcoreapp3.1\MultiCastDelegate.pdb
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.csprojAssemblyReference.cache
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.AssemblyInfoInputs.cache
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.AssemblyInfo.cs
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.csproj.CoreCompileInputs.cache
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.dll
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.pdb
+H:\12-08-2020\MultiCastDelegate\MultiCastDelegate\obj\Debug\netcoreapp3.1\MultiCastDelegate.genruntimeconfig.cache
