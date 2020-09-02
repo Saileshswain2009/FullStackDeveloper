@@ -1,0 +1,13 @@
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.exe
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.deps.json
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.runtimeconfig.json
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.runtimeconfig.dev.json
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.dll
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\bin\Debug\netcoreapp3.1\MultiThreadingIntoduction.pdb
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.csprojAssemblyReference.cache
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.AssemblyInfoInputs.cache
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.AssemblyInfo.cs
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.csproj.CoreCompileInputs.cache
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.dll
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.pdb
+H:\14-08-2020\MultiThreadingIntoduction\MultiThreadingIntoduction\obj\Debug\netcoreapp3.1\MultiThreadingIntoduction.genruntimeconfig.cache

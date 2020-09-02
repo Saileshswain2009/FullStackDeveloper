@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RsqpmrMQMKwJmeFM02Pffrdl6zpX4R4UaicZCQKZcmtZ6dALejvp1E4O2H8x+6tSGN40wpJn1HLt3nNInXMJA==",
+  "success": true,
+  "projectFilePath": "H:\\14-08-2020\\MultiThreadingIntoduction\\MultiThreadingIntoduction\\MultiThreadingIntoduction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
