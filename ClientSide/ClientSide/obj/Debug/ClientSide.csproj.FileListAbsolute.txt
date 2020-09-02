@@ -1,0 +1,10 @@
+H:\19-08-2020\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+H:\19-08-2020\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+H:\19-08-2020\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.csprojAssemblyReference.cache
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.Form1.resources
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.cache
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+H:\19-08-2020\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
