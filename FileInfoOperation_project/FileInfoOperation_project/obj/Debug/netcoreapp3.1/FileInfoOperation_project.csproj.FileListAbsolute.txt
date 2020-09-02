@@ -1,0 +1,13 @@
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.exe
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.deps.json
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.runtimeconfig.json
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.runtimeconfig.dev.json
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.dll
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\bin\Debug\netcoreapp3.1\FileInfoOperation_project.pdb
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.csprojAssemblyReference.cache
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.AssemblyInfoInputs.cache
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.AssemblyInfo.cs
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.csproj.CoreCompileInputs.cache
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.dll
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.pdb
+H:\18-08-2020\FileInfoOperation_project\FileInfoOperation_project\obj\Debug\netcoreapp3.1\FileInfoOperation_project.genruntimeconfig.cache
