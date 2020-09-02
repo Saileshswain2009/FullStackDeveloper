@@ -1,0 +1,13 @@
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.exe
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.deps.json
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.runtimeconfig.json
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.runtimeconfig.dev.json
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.dll
+H:\12-08-2020\DelegateExample1\DelegateExample1\bin\Debug\netcoreapp3.1\DelegateExample1.pdb
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.csprojAssemblyReference.cache
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.AssemblyInfoInputs.cache
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.AssemblyInfo.cs
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.csproj.CoreCompileInputs.cache
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.dll
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.pdb
+H:\12-08-2020\DelegateExample1\DelegateExample1\obj\Debug\netcoreapp3.1\DelegateExample1.genruntimeconfig.cache
