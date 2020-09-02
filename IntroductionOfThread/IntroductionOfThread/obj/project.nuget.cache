@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/fwxUJuP6FPKR/SFq+Z14ml53sse/48JwL2cFvvJPG86sygEX2u24G15CjNRnQMyL4rbpdpMZd+jmvPlcj2wzg==",
+  "success": true,
+  "projectFilePath": "H:\\14-08-2020\\IntroductionOfThread\\IntroductionOfThread\\IntroductionOfThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
