@@ -1,0 +1,12 @@
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.exe
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.deps.json
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.runtimeconfig.json
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.runtimeconfig.dev.json
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.dll
+H:\11-08-2020\TaskExample3\TaskExample3\bin\Debug\netcoreapp3.1\TaskExample3.pdb
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.AssemblyInfoInputs.cache
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.AssemblyInfo.cs
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.csproj.CoreCompileInputs.cache
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.dll
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.pdb
+H:\11-08-2020\TaskExample3\TaskExample3\obj\Debug\netcoreapp3.1\TaskExample3.genruntimeconfig.cache
