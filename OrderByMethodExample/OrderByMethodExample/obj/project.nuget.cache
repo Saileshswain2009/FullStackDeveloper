@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7gEerV13DoAPTUGdeAxGm0z5KWnRLf3/tB8jDBurEf0gvsmeEdh080YcTOkiLvTITHl2HPzhUFW2vL0DeOqVw==",
+  "success": true,
+  "projectFilePath": "H:\\10-08-2020\\LINQ-Chapters\\OrderByMethodExample\\OrderByMethodExample\\OrderByMethodExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
