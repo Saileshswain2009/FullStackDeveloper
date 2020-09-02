@@ -1,0 +1,13 @@
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.exe
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.deps.json
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.runtimeconfig.json
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.runtimeconfig.dev.json
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.dll
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\bin\Debug\netcoreapp3.1\TaskInstantiationExample1.pdb
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.csprojAssemblyReference.cache
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.AssemblyInfoInputs.cache
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.AssemblyInfo.cs
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.csproj.CoreCompileInputs.cache
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.dll
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.pdb
+H:\13-08-2020\TaskInstantiationExample1\TaskInstantiationExample1\obj\Debug\netcoreapp3.1\TaskInstantiationExample1.genruntimeconfig.cache
