@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperationOnDirectoriesAndFiles_project/1.0.0": {
+        "runtime": {
+          "OperationOnDirectoriesAndFiles_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperationOnDirectoriesAndFiles_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
