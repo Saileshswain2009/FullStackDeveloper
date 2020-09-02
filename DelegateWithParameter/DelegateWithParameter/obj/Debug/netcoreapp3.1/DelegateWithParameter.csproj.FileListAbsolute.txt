@@ -1,0 +1,12 @@
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.exe
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.deps.json
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.runtimeconfig.json
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.runtimeconfig.dev.json
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.dll
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\bin\Debug\netcoreapp3.1\DelegateWithParameter.pdb
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.AssemblyInfoInputs.cache
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.AssemblyInfo.cs
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.csproj.CoreCompileInputs.cache
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.dll
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.pdb
+H:\12-08-2020\DelegateWithParameter\DelegateWithParameter\obj\Debug\netcoreapp3.1\DelegateWithParameter.genruntimeconfig.cache
