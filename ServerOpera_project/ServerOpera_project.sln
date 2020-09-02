@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerOpera_project", "ServerOpera_project\ServerOpera_project.csproj", "{8B0F27CA-0145-4ACB-A65C-ED2B6F64F4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientOpera_project", "ClientOpera_project\ClientOpera_project.csproj", "{0166D9E3-5653-4E6C-980F-47F11BE6A9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0F27CA-0145-4ACB-A65C-ED2B6F64F4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0F27CA-0145-4ACB-A65C-ED2B6F64F4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0F27CA-0145-4ACB-A65C-ED2B6F64F4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0F27CA-0145-4ACB-A65C-ED2B6F64F4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0166D9E3-5653-4E6C-980F-47F11BE6A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0166D9E3-5653-4E6C-980F-47F11BE6A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0166D9E3-5653-4E6C-980F-47F11BE6A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0166D9E3-5653-4E6C-980F-47F11BE6A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848B2EA5-F851-4DFA-B87D-4D725F2D662D}
+	EndGlobalSection
+EndGlobal
