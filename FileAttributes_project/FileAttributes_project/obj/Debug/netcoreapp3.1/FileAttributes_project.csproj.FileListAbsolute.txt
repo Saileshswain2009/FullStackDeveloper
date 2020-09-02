@@ -1,0 +1,12 @@
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.exe
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.deps.json
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.runtimeconfig.json
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.runtimeconfig.dev.json
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.dll
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\bin\Debug\netcoreapp3.1\FileAttributes_project.pdb
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.AssemblyInfoInputs.cache
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.AssemblyInfo.cs
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.csproj.CoreCompileInputs.cache
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.dll
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.pdb
+H:\18-08-2020\FileAttributes_project\FileAttributes_project\obj\Debug\netcoreapp3.1\FileAttributes_project.genruntimeconfig.cache
