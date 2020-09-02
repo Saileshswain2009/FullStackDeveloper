@@ -1,0 +1,13 @@
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.exe
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.deps.json
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.runtimeconfig.json
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.runtimeconfig.dev.json
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.dll
+H:\19-08-2020\ServerSide_project\ServerSide_project\bin\Debug\netcoreapp3.1\ServerSide_project.pdb
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.csprojAssemblyReference.cache
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.AssemblyInfoInputs.cache
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.AssemblyInfo.cs
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.csproj.CoreCompileInputs.cache
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.dll
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.pdb
+H:\19-08-2020\ServerSide_project\ServerSide_project\obj\Debug\netcoreapp3.1\ServerSide_project.genruntimeconfig.cache
