@@ -1,0 +1,13 @@
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.exe
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.deps.json
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.runtimeconfig.json
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.runtimeconfig.dev.json
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.dll
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\bin\Debug\netcoreapp3.1\UsingAbstractStream_project.pdb
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.csprojAssemblyReference.cache
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.AssemblyInfoInputs.cache
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.AssemblyInfo.cs
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.csproj.CoreCompileInputs.cache
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.dll
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.pdb
+H:\18-08-2020\UsingAbstractStream_project\UsingAbstractStream_project\obj\Debug\netcoreapp3.1\UsingAbstractStream_project.genruntimeconfig.cache
