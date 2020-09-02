@@ -1,0 +1,13 @@
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.exe
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.deps.json
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.runtimeconfig.json
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.runtimeconfig.dev.json
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.dll
+H:\11-08-2020\ThreadExample1\ThreadExample1\bin\Debug\netcoreapp3.1\ThreadExample1.pdb
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.csprojAssemblyReference.cache
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.AssemblyInfoInputs.cache
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.AssemblyInfo.cs
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.csproj.CoreCompileInputs.cache
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.dll
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.pdb
+H:\11-08-2020\ThreadExample1\ThreadExample1\obj\Debug\netcoreapp3.1\ThreadExample1.genruntimeconfig.cache
