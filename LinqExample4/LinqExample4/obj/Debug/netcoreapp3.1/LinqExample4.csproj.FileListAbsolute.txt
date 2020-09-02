@@ -1,0 +1,13 @@
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.exe
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.deps.json
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.runtimeconfig.json
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.runtimeconfig.dev.json
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.dll
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\bin\Debug\netcoreapp3.1\LinqExample4.pdb
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.csprojAssemblyReference.cache
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.AssemblyInfoInputs.cache
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.AssemblyInfo.cs
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.csproj.CoreCompileInputs.cache
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.dll
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.pdb
+H:\10-08-2020\LINQ-Chapters\LinqExample4\LinqExample4\obj\Debug\netcoreapp3.1\LinqExample4.genruntimeconfig.cache
