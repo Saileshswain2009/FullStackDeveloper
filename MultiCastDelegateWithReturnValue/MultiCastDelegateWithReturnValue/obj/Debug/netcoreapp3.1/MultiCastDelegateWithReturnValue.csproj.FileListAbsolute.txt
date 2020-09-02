@@ -1,0 +1,12 @@
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.exe
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.deps.json
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.runtimeconfig.json
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.runtimeconfig.dev.json
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.dll
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\bin\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.pdb
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.AssemblyInfoInputs.cache
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.AssemblyInfo.cs
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.csproj.CoreCompileInputs.cache
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.dll
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.pdb
+H:\12-08-2020\MultiCastDelegateWithReturnValue\MultiCastDelegateWithReturnValue\obj\Debug\netcoreapp3.1\MultiCastDelegateWithReturnValue.genruntimeconfig.cache

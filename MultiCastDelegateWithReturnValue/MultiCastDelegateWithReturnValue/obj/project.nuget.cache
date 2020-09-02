@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xTq2h/pQh8aQn1uFHZpLI65DmxqUE43g7BWXshThDAZ6nvpsuPhtD6ZO9iEirBJOL8+UijzCc0al/G7yxX8Pw==",
+  "success": true,
+  "projectFilePath": "H:\\12-08-2020\\MultiCastDelegateWithReturnValue\\MultiCastDelegateWithReturnValue\\MultiCastDelegateWithReturnValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
