@@ -1,0 +1,13 @@
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.exe
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.deps.json
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.runtimeconfig.json
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.runtimeconfig.dev.json
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.dll
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\bin\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.pdb
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.csprojAssemblyReference.cache
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.AssemblyInfoInputs.cache
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.AssemblyInfo.cs
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.csproj.CoreCompileInputs.cache
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.dll
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.pdb
+H:\13-08-2020\TaskFactoryStartNewMethod\TaskFactoryStartNewMethod\obj\Debug\netcoreapp3.1\TaskFactoryStartNewMethod.genruntimeconfig.cache
