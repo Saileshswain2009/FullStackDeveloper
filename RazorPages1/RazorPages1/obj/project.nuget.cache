@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPffkXP4UWDqhNDH8DeN5/0i38aDL07MSf7E1QpYHPC3PGT1mhPWmaIOLHfk1pxAfgP1Q65thz7qORmth7T58w==",
+  "success": true,
+  "projectFilePath": "H:\\29-08-2020\\RazorPages1\\RazorPages1\\RazorPages1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
