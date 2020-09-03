@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+    <script>
+        var canvas=d3.select("body")
+        .append("svg")
+        .attr("width",500)
+        .attr("height",500);
+        var circle=canvas.append("circle")//variable circle=To hold cicle element
+                    .attr("cx",250)//hori posi
+                    .attr("cy",250)//ver posi
+                    .attr("r",50)//radius
+                    .attr("fill","blue");
+
+        var rect=canvas.append("rect")
+                        .attr("width",100)
+                        .attr("height",50);
+
+        var line = canvas.append("line")
+                    .attr("x1",0)
+                    .attr("y1",100)
+                    .attr("x2",400)
+                    .attr("y2",400)
+                    .attr("stroke","green")
+                    .attr("stroke-width",10);
+
+        d3.select("body").transition()
+            .style("background-color", "yellow");
+
+            
+                                    
+    </script>
+</body>
+</html>
