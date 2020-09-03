@@ -1,0 +1,13 @@
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.exe
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.deps.json
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.runtimeconfig.json
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.runtimeconfig.dev.json
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.dll
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\bin\Debug\netcoreapp3.1\MultiConClient_project.pdb
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.csprojAssemblyReference.cache
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.AssemblyInfoInputs.cache
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.AssemblyInfo.cs
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.csproj.CoreCompileInputs.cache
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.dll
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.pdb
+H:\21-08-2020\MultiConServer_project\MultiConClient_project\obj\Debug\netcoreapp3.1\MultiConClient_project.genruntimeconfig.cache
