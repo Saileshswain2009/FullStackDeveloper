@@ -1,0 +1,13 @@
+.colorChange{
+    color:white;
+} 
+
+.bgColor{
+    background-color: magenta;
+}
+
+.singleCssColorChange
+{
+    font-style: italic;
+    color:rgb(44, 9, 168);
+}

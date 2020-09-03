@@ -1,0 +1,54 @@
+<p>home works!</p>
+<h1 class="text-danger"><input type="text" name="" [value]="checkProperty"></h1><br>
+<div [hidden]='isHidden'>This is for checking purpose; Property Binding</div><br>
+<button bind-disabled='isHidden'>Please Subscribe myChannel</button>
+<button class="btn btn-primary" (click) = "myfun($event)" value="Welcome to muna technical">Event Binding</button><br>
+<button class="btn btn-info" [class.active]="isActive" > active class </button>
+
+<button class="btn btn-info" [class.active]="isActive" > active class </button>
+<button class="btn btn-info" [class.active]="isActive" > active class </button>
+<button class="btn btn-info" [class.disabled]="isDis" > active class </button>
+
+<button class="btn btn-primary" [class]='multiCssClasses'> Multi Classes </button>
+<br>
+<button class="btn btn-warning" [class.singleCssColorChange]="singleCssChange"> Single Class Css Button </button>
+
+<br>
+
+<button [style.color]="inLineColor ?'red':'green'" >Inline Style</button>
+
+<br>
+<button [style.font-weight]="fontWeight ?'bold':'normal'" >Font Weight Style</button>
+<button [style.fontWeight]="fontWeight2 ?'bold':'normal'" >Font Style</button>
+<br>
+<div class="container">
+    <!-- <br>
+        <input type="text" name="" class="form-control" #email>
+    <button (click)="getEmail(email.value)">ClickMe</button> -->
+    </div>
+    <br>
+    <input [(ngModel)]='email' (click)=getEmail()>
+    <br>
+    PIPE
+    <br>
+    LowerCasePipe
+    UpperCasePipe
+    DecimalPipe
+    CurrancyPipe
+    DataPipe
+    <h2 class="text-danger">
+        My Name is {{cv.name | uppercase | lowercase}}.I was born in {{cv.born | date}}
+        .I am {{cv.age }} years old.I got {{cv.boards | number:'3.1-2'}} percent in 12th class.
+        My salary expectation is {{cv.salary | currency:'AUD':'code'}}.
+    </h2>
+    <div [ngClass]="multiCssClass">
+        Starting of Angular Class
+    </div>
+    <div [ngStyle]="inLineStyleCss">
+    This is a inline css style...
+    </div>
+    <div *ngIf="developerName === 'SaileshDeveloper';else ">
+        Staring Angular Developments<br>
+        By{{developerName}}
+    </div>
+    
