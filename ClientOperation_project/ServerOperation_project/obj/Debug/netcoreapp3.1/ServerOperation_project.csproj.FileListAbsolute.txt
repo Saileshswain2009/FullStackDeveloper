@@ -1,0 +1,12 @@
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.exe
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.deps.json
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.runtimeconfig.json
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.runtimeconfig.dev.json
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.dll
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\bin\Debug\netcoreapp3.1\ServerOperation_project.pdb
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.AssemblyInfoInputs.cache
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.AssemblyInfo.cs
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.csproj.CoreCompileInputs.cache
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.dll
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.pdb
+H:\21-08-2020\ClientOperation_project\ServerOperation_project\obj\Debug\netcoreapp3.1\ServerOperation_project.genruntimeconfig.cache
