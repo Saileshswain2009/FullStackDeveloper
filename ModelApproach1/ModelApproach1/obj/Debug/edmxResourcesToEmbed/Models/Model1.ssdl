@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="students" EntityType="Model1.Store.students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="marks" EntityType="Model1.Store.marks" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="studentmark" Association="Model1.Store.studentmark">
+      <End Role="student" EntitySet="students" />
+      <End Role="mark" EntitySet="marks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="marks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ObtainMark" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="studentId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="studentmark">
+    <End Role="student" Type="Model1.Store.students" Multiplicity="1" />
+    <End Role="mark" Type="Model1.Store.marks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="student">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mark">
+        <PropertyRef Name="studentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
