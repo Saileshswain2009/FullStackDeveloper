@@ -1,0 +1,9 @@
+1.create npm project
+2.create index,css and js files
+3.Install dependancies,express,nodemon(dev dep.)
+4.Create a Express server (server.js)
+5.Do frontend part
+6.Install Socket.Io,setup Socket.Io in server.js and client.js
+7.Client send message logic in client.js
+8.To start the program in cmd we must give the command:-npm run dev
+9.
