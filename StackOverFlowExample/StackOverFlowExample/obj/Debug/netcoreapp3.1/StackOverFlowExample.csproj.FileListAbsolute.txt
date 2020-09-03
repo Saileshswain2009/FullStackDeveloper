@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.exe
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.deps.json
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.runtimeconfig.json
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.dll
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\bin\Debug\netcoreapp3.1\StackOverFlowExample.pdb
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.AssemblyInfo.cs
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.dll
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.pdb
+C:\Users\user\source\repos\StackOverFlowExample\StackOverFlowExample\obj\Debug\netcoreapp3.1\StackOverFlowExample.genruntimeconfig.cache

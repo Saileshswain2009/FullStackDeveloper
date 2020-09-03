@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E91nQ2L2Uk6voTMSeO7qG6zJZlvHttXx+bGoY67NmnVX4glMoUuCsDTAqPvRL3AptiXolMNYiG+Th+IpOTStA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\StackOverFlowExample\\StackOverFlowExample\\StackOverFlowExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
