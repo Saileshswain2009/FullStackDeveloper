@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6hJFUwsxr4N93U/BgVLD/6iC6U+9kRS6jjEvHDjSpYosS6aVz9+WDyp763EITSVdDzk1lu0lXpfUI+W2uBvMw==",
+  "success": true,
+  "projectFilePath": "H:\\22-08-2020\\JsonSerializationAndDeserialization\\JsonSerializationAndDeserialization\\JsonSerializationAndDeserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
