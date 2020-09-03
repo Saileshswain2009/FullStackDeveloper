@@ -1,0 +1,12 @@
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.exe
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.deps.json
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.runtimeconfig.json
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.dll
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\bin\Debug\netcoreapp3.1\PolymorphsimExample3.pdb
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.AssemblyInfo.cs
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.dll
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.pdb
+H:\C# Basics\Todays-work\PolymorphsimExample3\PolymorphsimExample3\obj\Debug\netcoreapp3.1\PolymorphsimExample3.genruntimeconfig.cache

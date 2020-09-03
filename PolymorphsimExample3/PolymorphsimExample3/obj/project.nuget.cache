@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmJkn4C3/FpK/qdtqTvKEbuqNf34uQ7f7gOfqiDchBZ8X9x9dWHd5ocyN2IeuiYQrQJRTrQRXJMlMD2sxziUJQ==",
+  "success": true,
+  "projectFilePath": "H:\\C# Basics\\Todays-work\\PolymorphsimExample3\\PolymorphsimExample3\\PolymorphsimExample3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
