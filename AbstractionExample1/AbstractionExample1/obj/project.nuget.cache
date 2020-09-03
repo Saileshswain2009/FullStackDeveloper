@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "foRDinwk65k/bftWJ8har7vXrbXEyIc+L0S+x73L1y/mYVvnnGrr7scjjmcSNVDYwmUms+YFOGUbhXTFQ+XPaw==",
+  "success": true,
+  "projectFilePath": "H:\\C# Basics\\Todays-work\\AbstractionExample1\\AbstractionExample1\\AbstractionExample1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
