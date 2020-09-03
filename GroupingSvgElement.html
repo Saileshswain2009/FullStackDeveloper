@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data set</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+    <script>
+    var dataArray=[2,40,50,70];//Each data point is repesented by a bar
+    var w=500;
+    var h=500;
+    var widthScale=d3.scale.linear()//scale var. values are set acc. to domain value.
+                    .domain([0,70])//scale must know where the fetch data from
+                    .range([0,w]);//defining resulting range
+
+    var color=d3.scale.linear()
+                .domain([0,60])
+                .range(["blue","red"]);
+
+    var axis=d3.svg.axis()
+                .ticks(15)
+                .scale(widthScale);
+
+    var canvas=d3.select("body")
+        .append("svg")
+        .attr("width",w)//Container dimensions
+        .attr("height",h)
+        .append("g")//g stands for group
+        .attr("transform","translate(20,0)")//tranform attr. is used to moving the page up,down & side by side
+        
+        var bars=canvas.selectAll("rect")//binding data:-connecting data of empty selection of rect.
+                .data(dataArray)
+                .enter()//placeholder for each and every data element as it is empty first.
+                    .append("rect")//bar for each data element.
+                    //.attr("width",function(d){  return d*10; })//width of each functions data tirctly working.loops.it will go all data elements & it returns all the value of that data & assign width of the rec.
+                    .attr("width",function(d){  return widthScale(d); })//for each datapoint data will go into the scale.scale will produce a new range which will fit into our container.This anoynoums function returns a new value.
+                    .attr("height",50)
+                    .attr("fill",function (d){return color(d)})
+                    .attr("y",function(d,i){ return i*100})
+
+                    canvas.append("g")
+                    .attr("transform","translate(0,400)")
+                    .call(axis);
+    </script>
+</body>
+</html>
