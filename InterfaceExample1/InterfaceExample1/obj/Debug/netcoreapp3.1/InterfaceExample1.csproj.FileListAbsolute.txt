@@ -1,0 +1,12 @@
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.exe
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.deps.json
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.runtimeconfig.json
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.dll
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\bin\Debug\netcoreapp3.1\InterfaceExample1.pdb
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.AssemblyInfo.cs
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.dll
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.pdb
+H:\C# Basics\Todays-work\InterfaceExample1\InterfaceExample1\obj\Debug\netcoreapp3.1\InterfaceExample1.genruntimeconfig.cache
