@@ -1,0 +1,13 @@
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.exe
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.deps.json
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.runtimeconfig.json
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.dll
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\bin\Debug\netcoreapp3.1\InheritanceExample6.pdb
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.csprojAssemblyReference.cache
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.AssemblyInfo.cs
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.dll
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.pdb
+H:\C# Basics\Todays-work\InheritanceExample6\InheritanceExample6\obj\Debug\netcoreapp3.1\InheritanceExample6.genruntimeconfig.cache
