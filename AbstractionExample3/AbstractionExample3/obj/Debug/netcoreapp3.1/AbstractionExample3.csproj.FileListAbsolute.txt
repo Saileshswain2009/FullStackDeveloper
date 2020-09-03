@@ -1,0 +1,12 @@
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.exe
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.deps.json
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.runtimeconfig.json
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.dll
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\bin\Debug\netcoreapp3.1\AbstractionExample3.pdb
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.AssemblyInfo.cs
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.dll
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.pdb
+H:\C# Basics\Todays-work\AbstractionExample3\AbstractionExample3\obj\Debug\netcoreapp3.1\AbstractionExample3.genruntimeconfig.cache
