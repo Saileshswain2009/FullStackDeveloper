@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>D3 Tutorial</title>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+
+<body>
+
+    <p>Welcome to D3 World!</p>
+    <p>Its a responsive website for creating bar charts 1</p>
+    <p>Its a responsive website for creating bar charts 2</p>
+    <p>Its a responsive website for creating bar charts 3</p>
+    <p>Its a responsive website for creating bar charts 3</p>
+	<script>
+		d3.select("p").text("Hello world!");
+        // var paragraphs = document.getElementsByTagName("p");
+        // for (var i = 0; i < paragraphs.length; i++) 
+        // {
+        //     var paragraph = paragraphs.item(i);
+        //     paragraph.style.setProperty("color", "orange", null);
+        // }
+        d3.selectAll("p").style("color", function() {
+        return "hsl(" + Math.random() * 360 + ",100%,50%)";
+        });
+        // d3.selectAll("p").style("color", function(d, i) {
+        // return i % 2 ? "#fff" : "#eee";
+        // });
+
+	</script>
+
+</body>
+</html>
