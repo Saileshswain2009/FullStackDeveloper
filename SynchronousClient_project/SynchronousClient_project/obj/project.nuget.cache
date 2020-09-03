@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXmFFJbP3WZcSEgRBtbnnE1WS2Iczw3OArcD2IqA6v/9A0fEvbVJPSLuHiI+u7vGzUJL2yY52shJBYKy7Qj8hg==",
+  "success": true,
+  "projectFilePath": "H:\\21-08-2020\\SynchronousClient_project\\SynchronousClient_project\\SynchronousClient_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

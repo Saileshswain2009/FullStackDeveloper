@@ -1,0 +1,13 @@
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.exe
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.deps.json
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.runtimeconfig.json
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.runtimeconfig.dev.json
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.dll
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\bin\Debug\netcoreapp3.1\SychronousServer_project.pdb
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.csprojAssemblyReference.cache
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.AssemblyInfoInputs.cache
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.AssemblyInfo.cs
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.csproj.CoreCompileInputs.cache
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.dll
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.pdb
+H:\21-08-2020\SynchronousClient_project\SychronousServer_project\obj\Debug\netcoreapp3.1\SychronousServer_project.genruntimeconfig.cache
