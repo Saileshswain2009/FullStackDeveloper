@@ -1,0 +1,12 @@
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.exe
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.deps.json
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.runtimeconfig.json
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.runtimeconfig.dev.json
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.dll
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\bin\Debug\netcoreapp3.1\AsynchronousClient_project.pdb
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.AssemblyInfoInputs.cache
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.AssemblyInfo.cs
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.csproj.CoreCompileInputs.cache
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.dll
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.pdb
+H:\21-08-2020\AsynchronousClient_project\AsynchronousClient_project\obj\Debug\netcoreapp3.1\AsynchronousClient_project.genruntimeconfig.cache
