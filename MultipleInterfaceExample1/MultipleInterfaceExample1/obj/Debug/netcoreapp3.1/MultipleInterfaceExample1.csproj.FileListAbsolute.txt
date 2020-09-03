@@ -1,0 +1,12 @@
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.exe
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.deps.json
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.runtimeconfig.json
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.dll
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\bin\Debug\netcoreapp3.1\MultipleInterfaceExample1.pdb
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.AssemblyInfo.cs
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.dll
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.pdb
+H:\C# Basics\Todays-work\MultipleInterfaceExample1\MultipleInterfaceExample1\obj\Debug\netcoreapp3.1\MultipleInterfaceExample1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPGz9/0kh2iUQgxwCKD9waeX1G8IKY6SYDQMMpA/VlmJdAGJnKHmaoXw99Cz+IGpJiAV6pvvm+Jwelbtze2pEw==",
+  "success": true,
+  "projectFilePath": "H:\\C# Basics\\Todays-work\\MultipleInterfaceExample1\\MultipleInterfaceExample1\\MultipleInterfaceExample1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
