@@ -1,0 +1,13 @@
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.exe
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.deps.json
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.runtimeconfig.json
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.dll
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\bin\Debug\netcoreapp3.1\FilesExample2.pdb
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.csprojAssemblyReference.cache
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.AssemblyInfo.cs
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.dll
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.pdb
+H:\C# Basics\Todays-work\FilesExample2\FilesExample2\obj\Debug\netcoreapp3.1\FilesExample2.genruntimeconfig.cache
