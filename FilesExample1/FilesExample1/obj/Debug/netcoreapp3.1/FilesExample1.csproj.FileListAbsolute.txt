@@ -1,0 +1,12 @@
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.exe
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.deps.json
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.runtimeconfig.json
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.runtimeconfig.dev.json
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.dll
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\bin\Debug\netcoreapp3.1\FilesExample1.pdb
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.AssemblyInfoInputs.cache
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.AssemblyInfo.cs
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.csproj.CoreCompileInputs.cache
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.dll
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.pdb
+H:\C# Basics\Todays-work\FilesExample1\FilesExample1\obj\Debug\netcoreapp3.1\FilesExample1.genruntimeconfig.cache
