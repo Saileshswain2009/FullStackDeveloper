@@ -1,0 +1,7 @@
+H:\28-08-2020\SQLClient_project\SQLClient_project\bin\Debug\SQLClient_project.exe.config
+H:\28-08-2020\SQLClient_project\SQLClient_project\bin\Debug\SQLClient_project.exe
+H:\28-08-2020\SQLClient_project\SQLClient_project\bin\Debug\SQLClient_project.pdb
+H:\28-08-2020\SQLClient_project\SQLClient_project\obj\Debug\SQLClient_project.csprojAssemblyReference.cache
+H:\28-08-2020\SQLClient_project\SQLClient_project\obj\Debug\SQLClient_project.csproj.CoreCompileInputs.cache
+H:\28-08-2020\SQLClient_project\SQLClient_project\obj\Debug\SQLClient_project.exe
+H:\28-08-2020\SQLClient_project\SQLClient_project\obj\Debug\SQLClient_project.pdb
